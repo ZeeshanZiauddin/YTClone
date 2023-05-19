@@ -1,4 +1,4 @@
-###**YT Clone**
+**###YT Clone**
 YT Clone is an open-source project built with Next.js that aims to replicate the functionality of the popular video-sharing platform YouTube. This project provides a comprehensive implementation of key features found on YouTube, allowing users to authenticate, upload videos, search for content, play videos, and interact through comments.
 
 ###**Features**
