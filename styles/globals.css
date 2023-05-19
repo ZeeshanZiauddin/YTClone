@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,body {
+    @apply bg-[#0f0f0f] text-[#fff] tracking-wide font-body overflow-hidden h-[100vh];
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold;
+  }
+
+  h1 {
+    @apply text-4xl sm:text-5xl;
+  }
+  h2 {
+    @apply text-3xl sm:text-4xl;
+  }
+
+  li {
+    @apply cursor-pointer;
+  }
+}
+
+@layer utilities {
+}
