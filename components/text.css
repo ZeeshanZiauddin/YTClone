@@ -1,0 +1,14 @@
+div.color {
+  /* background and others */
+  color: #0f0f0f;
+  color: #222222;
+
+  /*text, sub text */
+  color: #fff;
+  color: #999999;
+
+  /* active, hover */
+
+  color: #272727;
+  color: #3d3d3d;
+}
